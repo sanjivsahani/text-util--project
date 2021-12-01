@@ -1,2 +1,2 @@
-# text-util--project
-text util is project based on react function based component 
+# text-utils-
+The text-utilizer project is based on function based component , react project 
